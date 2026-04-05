@@ -1,2 +1,3 @@
 # Google-Drive
-Bağımdız denetim programı
+Bağımsız
+denetim programı
